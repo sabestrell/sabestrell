@@ -1,6 +1,6 @@
 <h1 align="center"> Spanish ver. </h1>
 👋 ¡Hola! Soy estudiante de Ingeniería en Información y Control de Gestión con un enfoque en la programación. Actualmente estoy desarrollando mis habilidades en tecnologías como JavaScript, Java, Node.JS, Python y C#. Me considero un Programador Jr apasionado por aprender y resolver problemas complejos. 🚀
-
+ 
 📚 En mis proyectos, combino la lógica de programación con conceptos de control y gestión para crear soluciones innovadoras.
 
 🌟 Siempre busco nuevos retos y oportunidades para seguir creciendo en este emocionante camino tecnológico.
