@@ -1,5 +1,16 @@
-## Hi there 👋
+-Spanish ver-
+👋 ¡Hola! Soy estudiante de Ingeniería en Información y Control de Gestión con un enfoque en la programación. Actualmente estoy desarrollando mis habilidades en tecnologías como JavaScript, Java, Node.JS, Python y C#. Me considero un Programador Jr apasionado por aprender y resolver problemas complejos. 🚀
 
+📚 En mis proyectos, combino la lógica de programación con conceptos de control y gestión para crear soluciones innovadoras.
+
+🌟 Siempre busco nuevos retos y oportunidades para seguir creciendo en este emocionante camino tecnológico.
+
+-English ver-
+👋 Hi! I'm a student of Engineering in Information and Management Control with a focus on programming. Currently, I'm building my skills in technologies like JavaScript, Java, Node.JS, Python, and C#. I consider myself a Junior Developer passionate about learning and solving complex problems. 🚀
+
+📚 In my projects, I combine programming logic with control and management concepts to create innovative solutions.
+
+🌟 I'm always looking for new challenges and opportunities to keep growing in this exciting tech journey.
 <!--
 **sabestrell/sabestrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
